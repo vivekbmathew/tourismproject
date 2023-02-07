@@ -1,0 +1,48 @@
+.carousel {
+    position:absolute;
+    top:0;    
+}
+
+.test{
+    position: relative;
+}
+#logo
+{
+    
+    margin-left:50px ;
+    
+} 
+.head
+{
+    font-family: 'Pacifico', cursive;
+    font-size: larger;
+    margin-left: 100px;
+}
+#card1
+{
+    margin-top: 30px;
+    padding: 20px;
+}
+/* #kas
+{
+    margin-left: -180px;
+} */
+/* #login
+{
+    width: 100%;
+} */
+.signp
+{
+    background-image: url('https://t4.ftcdn.net/jpg/05/49/09/67/240_F_549096719_YoGRk5gaVStyxSOxVPBntuJ6tPpbjzEX.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+#login
+{
+    margin-left: 265px;
+}
+#sign
+{
+    margin-left: 8px;
+}
